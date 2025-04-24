@@ -1,2 +1,1 @@
-# DeVahan
-DeVahan Is A NFT Based Digitalized Vehicle Ownership Management System
+use npm install and then npm run dev
